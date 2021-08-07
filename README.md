@@ -4,3 +4,5 @@ This repository is an example.
 This is an example line, written on RStudio.
 
 This project is prepared for educational purposes.
+
+This line is written using another computer.
